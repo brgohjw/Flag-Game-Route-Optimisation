@@ -1,6 +1,3 @@
-# G2_T08
-# Members: Brian Goh Jun Wei, Lee Pei Yi
-
 import numpy as np
 
 def get_routes(p, v, flags, n):
