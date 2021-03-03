@@ -1,5 +1,5 @@
 # Flag-Game-Route-Optimisation
-Minimising distance travelled by players in a flag collection game using randomised 2-opt optimisation
+Minimising distance travelled by players in a flag collection game using a randomised 2-opt heuristic
 
 ## Task 1: Single Player (single_player.py)
 You are a player in this game. The objective is to collect at least p points. (Since players run at the same speed, this means that you want to minimize the distance taken in your route.) It does not matter how many points you manage to accumulate; as long as you get at least p points. Plan the route that you will take in your attempt to win the game. There are two variations of this game:
